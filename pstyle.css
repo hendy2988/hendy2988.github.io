@@ -13,11 +13,16 @@
 	.header h2 {
 		text-shadow: .5px .5px #301709;
 	}
+	.resizeh1 {
+		font-size: 15px;
+		font-stretch: condensed;
+	}
 	h1 {
 		font-size: 40px;
 		font-family: "adobe hebrew", serif;
 		text-align: center;
 		line-height: 1px;
+		
 	}
 	h2 {
 		font-size: 20px;
